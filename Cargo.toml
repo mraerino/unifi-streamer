@@ -1,0 +1,10 @@
+[package]
+name = "unifi-streamer"
+version = "0.1.0"
+authors = ["mraerino <melodie124@gmail.com>"]
+
+[dependencies]
+vorbis = "0.1.0"
+hound = "3.0.0"
+byteorder = "1.0.0"
+#nom = "^2.1"
